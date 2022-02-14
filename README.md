@@ -1,4 +1,4 @@
-GGGGG
+GGGGGG
 G
 G
 G   G
