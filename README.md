@@ -1,7 +1,7 @@
 GGGGGG
 G
 G
-G   G
+G   GG
 G    
 G
 GGGGG
