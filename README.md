@@ -22,7 +22,7 @@ TTTTTTT
    T
 
 H   H
-H
+H   H
 U
 HHHH
 H
