@@ -24,7 +24,7 @@ TTTTTTT
 H   H
 H   H
 U   H
-HHHHH
+HHHH
 H
 H
 H
