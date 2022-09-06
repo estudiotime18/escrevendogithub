@@ -30,7 +30,7 @@ H   H
 H   H
 
 U    U
-U
+U    U
 U
 U
 U
