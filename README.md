@@ -37,7 +37,7 @@ U    U
 U    U
 UUUUUU
 
-BB
+BBB
 B
 B
 BB
