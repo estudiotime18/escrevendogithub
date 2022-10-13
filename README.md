@@ -40,7 +40,7 @@ UUUUUU
 BBB
 B
 B
-BB
+BBB
 B
 B
 BB
