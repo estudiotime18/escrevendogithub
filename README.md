@@ -42,5 +42,5 @@ B   B
 B   B
 BBBB
 B   B
-B
+B   B
 BBBB
